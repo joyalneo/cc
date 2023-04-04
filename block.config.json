@@ -1,0 +1,8 @@
+{
+  "name": "cc",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/joyalneo/cc",
+    "ssh": "git@github.com:joyalneo/cc.git"
+  }
+}
